@@ -464,7 +464,7 @@
                     <ins class="adsbygoogle"
                          style="display:block"
                          data-ad-client="ca-app-pub-9529109133395287/2296215605"
-                         data-ad-slot="9241193054"
+                         data-ad-slot="2296215605"
                          data-ad-format="auto"
                          data-full-width-responsive="true"></ins>
                     <script>
@@ -488,7 +488,7 @@
                     <ins class="adsbygoogle"
                          style="display:block"
                          data-ad-client="ca-app-pub-9529109133395287/2296215605"
-                         data-ad-slot="9241193054"
+                         data-ad-slot="2296215605"
                          data-ad-format="auto"
                          data-full-width-responsive="true"></ins>
                     <script>
